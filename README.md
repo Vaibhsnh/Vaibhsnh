@@ -121,5 +121,45 @@ width="100%"/>
 
 <br>
 
-# 🤝 Connect With Me
+<br>
+
+# 📫 Connect With Me
+
+<table width="100%">
+<tr>
+
+<td width="25%" align="center">
+
+<a href="https://github.com/Vaibhsnh" target="_blank">
+<img src="./assets/cards/github-card.png" width="100%">
+</a>
+
+</td>
+
+<td width="25%" align="center">
+
+<a href="https://linkedin.com/in/vaibhavsinha-dev" target="_blank">
+<img src="./assets/cards/linkedin-card.png" width="100%">
+</a>
+
+</td>
+
+<td width="25%" align="center">
+
+<a href="mailto:vaibhsnh@gmail.com" target="_blank">
+<img src="./assets/cards/gmail-card.png" width="100%">
+</a>
+
+</td>
+
+<td width="25%" align="center">
+
+<a href="#" target="_blank">
+<img src="./assets/cards/portfolio-card.png" width="100%">
+</a>
+
+</td>
+
+</tr>
+</table>
 
