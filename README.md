@@ -163,3 +163,8 @@ width="100%"/>
 </tr>
 </table>
 
+<br>
+
+<p align="center">
+<img src="./assets/cards/quote-card.png" width="100%">
+</p>
