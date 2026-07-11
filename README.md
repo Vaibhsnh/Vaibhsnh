@@ -1,16 +1,33 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Vaibhsnh/Vaibhsnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/banner/banner.png" width="100%" alt="Banner"/>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### MERN Stack Developer
+
+<p>
+Engineering digital experiences with purpose.
+</p>
+
+</div>
+
+<br>
+
+## About
+
+I build modern, scalable web applications with a strong focus on **clean architecture**, **performance**, and **user experience**.
+
+I enjoy transforming ideas into polished digital products while continuously learning, improving, and shipping better software.
+
+<br>
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,js,ts,html,css,tailwind,git,github,vscode&perline=7"/>
+
+</p>
+
+<br>
